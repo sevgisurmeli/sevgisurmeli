@@ -1,6 +1,4 @@
-# Merhaba 👋 Ben Sevgi Sürmeli <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-</p>
+# Merhaba 👋 Ben Sevgi Sürmeli
 
 🎓 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı öğrencisiyim.                          
 🌍 Erasmus ile yurt dışında eğitim almayı hedefliyorum.  
