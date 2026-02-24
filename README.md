@@ -1,4 +1,6 @@
-# Merhaba 👋 Ben Sevgi 
+# Merhaba 👋 Ben Sevgi <p align="center">
+  <img src="DOSYA_ADI.png" width="200">
+</p>
 
 🎓 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı öğrencisiyim.                          
 🌍 Erasmus ile yurt dışında eğitim almayı hedefliyorum.  
