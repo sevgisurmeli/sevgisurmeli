@@ -1,4 +1,4 @@
-# Merhaba 👋 Ben Sevgi Sürmeli
+# Merhaba 👋 Ben Sevgi 
 
 🎓 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı öğrencisiyim.                          
 🌍 Erasmus ile yurt dışında eğitim almayı hedefliyorum.  
@@ -24,7 +24,7 @@
 
 ---
 
-# Hello 👋 I'm Sevgi Sürmeli  
+# Hello 👋 I'm Sevgi 
 
 🎓 Computer Programming student at Istanbul Gelisim University.  
 🌍 I aim to study abroad with Erasmus.  
