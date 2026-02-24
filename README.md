@@ -1,8 +1,8 @@
-# Merhaba 👋 Ben Sevgi Sürmeli  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sevgi!;Computer+Programming+Student;Learning+Java%2C+C+and+SQL;Future+Software+Developer+%F0%9F%92%BB;Erasmus+Dream+%F0%9F%8C%8D" />
+# Merhaba 👋 Ben Sevgi Sürmeli <p align="center">
+  🌍 Coding from Turkey 🇹🇷
 </p>
 
-🎓 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı öğrencisiyim.   
+🎓 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı öğrencisiyim.                          
 🌍 Erasmus ile yurt dışında eğitim almayı hedefliyorum.  
 💻 Yazılım ve programlama alanında kendimi geliştiriyorum.  
 
