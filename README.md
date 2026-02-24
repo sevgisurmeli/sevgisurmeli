@@ -47,10 +47,7 @@
 - Improve my English  
 - Study abroad with Erasmus  
 
----<p align="center">
-  <img src="DOSYA_ADI.png" width="200">
-</p>
-
+---
 ## 🔗 Bana Ulaşın / Contact
 - LinkedIn: https://www.linkedin.com/in/sevgi-surmeli  
 - GitHub: https://github.com/sevgisurmeli  
