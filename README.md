@@ -1,7 +1,4 @@
-# Merhaba 👋 Ben Sevgi <p align="center">
-  <img src="DOSYA_ADI.png" width="200">
-</p>
-
+# Merhaba 👋 Ben Sevgi 
 🎓 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı öğrencisiyim.                          
 🌍 Erasmus ile yurt dışında eğitim almayı hedefliyorum.  
 💻 Yazılım ve programlama alanında kendimi geliştiriyorum.  
@@ -50,7 +47,9 @@
 - Improve my English  
 - Study abroad with Erasmus  
 
----
+---<p align="center">
+  <img src="DOSYA_ADI.png" width="200">
+</p>
 
 ## 🔗 Bana Ulaşın / Contact
 - LinkedIn: https://www.linkedin.com/in/sevgi-surmeli  
