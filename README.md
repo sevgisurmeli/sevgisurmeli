@@ -5,7 +5,6 @@
 <p align="right">
   <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="160">
 </p>
-
 ## 📚 Şu an Öğreniyorum
 - C  
 - Java  
