@@ -1,7 +1,10 @@
 # Merhaba 👋 Ben Sevgi 
+<div align="center">
+  <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="120" style="vertical-align: middle; margin-right: 15px;">
+  <div style="text-align: left; display: inline-block;">
 🎓 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı öğrencisiyim.                          
 🌍 Erasmus ile yurt dışında eğitim almayı hedefliyorum.  
-💻 Yazılım ve programlama alanında kendimi geliştiriyorum.  <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="30">
+💻 Yazılım ve programlama alanında kendimi geliştiriyorum. 
 
 ---
 
