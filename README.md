@@ -1,14 +1,11 @@
 # Merhaba 👋 Ben Sevgi 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" style="width: 70%; text-align: left;">
+
  🎓 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı öğrencisiyim.                     
  🌍 Erasmus ile yurt dışında eğitim almayı hedefliyorum.  
- 💻 Yazılım ve programlama alanında kendimi geliştiriyorum. 
- <table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" style="width: 70%; text-align: left;">
----
+ 💻 Yazılım ve programlama alanında kendimi geliştiriyorum.
+<p align="right">
+  <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="160">
+</p>
 
 ## 📚 Şu an Öğreniyorum
 - C  
