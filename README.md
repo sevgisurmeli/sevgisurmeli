@@ -1,8 +1,7 @@
 # Merhaba 👋 Ben Sevgi 
-
- 🎓 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı öğrencisiyim.                     
- 🌍 Erasmus ile yurt dışında eğitim almayı hedefliyorum.  
- 💻 Yazılım ve programlama alanında kendimi geliştiriyorum.
+🎓 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı öğrencisiyim.                     
+🌍 Erasmus ile yurt dışında eğitim almayı hedefliyorum.  
+💻 Yazılım ve programlama alanında kendimi geliştiriyorum.
 <p align="right">
   <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="160">
 </p>
