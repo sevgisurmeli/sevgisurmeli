@@ -11,7 +11,7 @@
 - Java  
 - SQL  
 - HTML ve CSS  
-- JavaScript  
+ 
 - Git ve GitHub  
 
 ---
