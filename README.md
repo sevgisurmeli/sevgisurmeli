@@ -10,7 +10,7 @@
 - C  
 - Java  
 - SQL  
-- HTML ve CSS  
+
  
 - Git ve GitHub  
 
